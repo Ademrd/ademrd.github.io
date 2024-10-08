@@ -1,0 +1,13 @@
+html { height:100%; }
+body { height:100%; margin:0; width:100%; }
+
+header { display:block; height:200px; background-color:#a8eee7; }	
+	img { display: block; width:140px; border-radius:50%; margin:auto;  }
+	h1{ display: block; text-align:center; margin:auto; }
+
+#left-column { display:block; float:left; width:100px; height:100px ; text-align:left;}
+#right-column { display:block; float:right; width:45%; text-align:center;margin-right: 400px;}
+#Exp {  }
+#comp {  }
+#moi { text-align:center; }
+#langues{  }
